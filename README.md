@@ -37,17 +37,14 @@
 
 ## 🚀 Featured Projects
 
-### 🏷 BAKERPASS  
-Production Monitoring & Label Management System integrated with BarTender for real-world industrial use.
+### 🌙 Luna.ai — Intelligent Chat Assistant  
+A conversational AI system built to simulate real-time human interaction with context-aware responses.
 
-### 🗳 AcademaVote  
-Blockchain-based University Voting System with secure candidate media uploads & tamper-proof voting.
+### 🎵 Cloudband — Music Streaming Platform  
+A full-stack streaming platform supporting structured media management and smooth user playback experience.
 
-### 📚 Sali-Seek  
-Learning Management System (LMS) built with Python using MVC architecture.
-
-### ⏱ QR Time-In/Out System  
-Instructor attendance monitoring system with dashboard-based room occupancy tracking.
+### 📦 Baktag — Warehouse Management System  
+A production-grade WMS designed for inventory control, batch tracking, and operational visibility.
 
 ---
 
