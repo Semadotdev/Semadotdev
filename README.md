@@ -1,63 +1,65 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋 I'm Jiro Luis F. Manalo</h1>
-<h3 align="center">BSIT Student | Full Stack Developer | System Builder 🚀</h3>
+<!-- HEADER -->
+<h1 align="center">Jiro Luis F. Manalo 👨‍💻</h1>
+<h3 align="center">BSIT • Backend-Focused Full Stack Developer • System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+Python+HTML+JavaScript+Tailwind+CSS;Building+Real+World+IT+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend-Focused+Full+Stack+Developer;PHP+%7C+Python+%7C+JavaScript;Building+Scalable+Real-World+Systems;Secure+%26+Structured+Architecture+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Semadotdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semadotdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-🎓 BSIT Student – College of Computer Studies and Technology  
-💻 Passionate about building production-level systems  
-🔐 Interested in Security, Blockchain & System Architecture  
-🚀 Capstone Developer & Innovation-Driven Builder  
+- 🎓 BSIT Student – College of Computer Studies & Technology  
+- 🏗 I build structured, production-ready systems  
+- 🔐 Focused on secure authentication & scalable backend logic  
+- 🚀 Passionate about turning ideas into working IT solutions  
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 ### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
 ### 🖥 Backend
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
 
 ### 🗄 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=F29111)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=F29111)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Systems I’ve Built
 
-### 🏷 BAKERPASS
-Production Monitoring & Label Management System integrated with BarTender for real-world industrial use.
+### 🌙 Luna.ai — Intelligent Chat Assistant  
+A conversational AI system built to simulate real-time human interaction with context-aware responses.
 
-### 🗳 AcademaVote
-Blockchain-based University Voting System with secure candidate media uploads & tamper-proof voting.
+### 🎵 Cloudband — Music Streaming Platform  
+A full-stack streaming platform supporting structured media management and smooth user playback experience.
 
-### 📚 Sali-Seek
-Learning Management System (LMS) built with Python using MVC architecture.
-
-### ⏱ QR Time-In/Out System
-Instructor attendance monitoring system with dashboard-based room occupancy tracking.
+### 📦 Baktag — Warehouse Management System  
+A production-grade WMS designed for inventory control, batch tracking, and operational visibility.
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Currently Engineering
 
-- 🔐 Secure Authentication & Role-Based Access Control (RBAC)
-- 🏗 Advanced Backend Architecture using PHP & Python (MVC Pattern)
-- ⚡ Modern JavaScript ES6+ & DOM Optimization
-- 🎨 Advanced Tailwind CSS UI Design Systems
-- 🗄 Database Optimization & Query Performance (MySQL)
+- 🔐 Role-Based Access Control (RBAC) Systems  
+- 🏗 Scalable MVC Backend Architecture  
+- ⚡ JavaScript Optimization & Clean DOM Handling  
+- 🎨 Advanced Tailwind UI Structuring  
+- 🗄 MySQL Query Optimization  
 
 ---
 
@@ -70,23 +72,23 @@ Instructor attendance monitoring system with dashboard-based room occupancy trac
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jiro-luis-manalo-914752387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:jiroluis.bizz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Semadotdev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Semadotdev&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 ---
 
-<h3 align="center">💡 “Building systems that solve real-world problems.”</h3>
+<h3 align="center">"Engineering systems that solve real-world problems."</h3>
