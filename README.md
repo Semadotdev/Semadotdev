@@ -70,21 +70,19 @@ Instructor attendance monitoring system with dashboard-based room occupancy trac
 
 ## 🧠 Currently Learning
 
-- Advanced Next.js & React Patterns  
-- System Security & Authentication  
-- DevOps Fundamentals  
-- Scalable Architecture Design  
+- 🔐 Secure Authentication & Role-Based Access Control (RBAC)
+- 🏗 Advanced Backend Architecture using PHP & Python (MVC Pattern)
+- ⚡ Modern JavaScript ES6+ & DOM Optimization
+- 🎨 Advanced Tailwind CSS UI Design Systems
+- 🗄 Database Optimization & Query Performance (MySQL)
 
 ---
 
-## ⚡ IT Animation
+## ⚡ Engineering Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" />
 </p>
 
 ---
