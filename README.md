@@ -3,7 +3,7 @@
 <h3 align="center">BSIT Student | Full Stack Developer | System Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+Python;Building+Real+World+IT+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+Python+HTML+JavaScript+Tailwind+CSS;Building+Real+World+IT+Systems" />
 </p>
 
 ---
