@@ -58,7 +58,7 @@ A production-grade WMS designed for inventory control, batch tracking, and opera
 
 ---
 
-## ⚡ Engineering Mode
+## ⚡ Development Mode
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45%" />
